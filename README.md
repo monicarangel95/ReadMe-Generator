@@ -1,6 +1,6 @@
-# README Generator
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+  # Readme Generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -9,25 +9,22 @@
   - [Test](#test)
   - [License](#license)
   - [Questions](#questions)
-
   ## Description
-  A CLI that generates a README for user projects
+  Creating a dynamic ReadMe generator for Github Users. A demo picture and video is shown below.
+  ![](utils/Demo_Pic.png)
+
+https://drive.google.com/file/d/1sI9u_uI8EvEkiUf95Bs-Sx6zVyOK9uCq/view 
 
   ## Installation
-  install node and inquirer
-
+  Install node and inquire
   ## Usage
-  node index.js in terminal
-
+  The command line will be used.
   ## Contribution
-  Email feedback
-
+  Yes
   ## Test
-  node index.js
-
+  undefined
   ## License
   MIT License
-
   Copyright (c) [year] [fullname]
   
   Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -47,7 +44,7 @@
   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
   SOFTWARE.
-
   ## Questions
- * https://github.com/Monicarangel95
- * Joanna.monica@yahoo.com
+  - Github: https://github.com/undefined
+  - Email: joanna.monica@yahoo.com
+  
