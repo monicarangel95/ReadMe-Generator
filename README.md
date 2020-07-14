@@ -11,18 +11,25 @@
   - [Questions](#questions)
   ## Description
   Creating a dynamic ReadMe generator for Github Users. A demo picture and video is shown below.
+
+  ## Usage
+Install node js and run the code "node index.js" in the command line. 
+
   ![](utils/Demo_Pic.png)
 
 https://drive.google.com/file/d/1sI9u_uI8EvEkiUf95Bs-Sx6zVyOK9uCq/view 
 
   ## Installation
-  Install node and inquire
+  Install node and requires a command line.
   ## Usage
   The command line will be used.
   ## Contribution
   Yes
   ## Test
-  undefined
+   Insert this code to run test.
+ ```
+ npm run test
+  ```
   ## License
   MIT License
   Copyright (c) [year] [fullname]
@@ -45,6 +52,6 @@ https://drive.google.com/file/d/1sI9u_uI8EvEkiUf95Bs-Sx6zVyOK9uCq/view
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
   SOFTWARE.
   ## Questions
-  - Github: https://github.com/undefined
+  - Github: https://github.com/Monicarangel95
   - Email: joanna.monica@yahoo.com
   
