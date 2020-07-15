@@ -11,6 +11,7 @@
   - [Questions](#questions)
   ## Description
   Creating a dynamic ReadMe generator for Github Users. A demo picture and video is shown below.
+
   ## Installation
   Install node and requires a command line.
 
@@ -23,7 +24,8 @@ https://drive.google.com/file/d/1sI9u_uI8EvEkiUf95Bs-Sx6zVyOK9uCq/view
 
 
   ## Contribution
-  Yes
+  Yes, I'm open to contribution.
+
   ## Test
   Insert this code to run test.
   ```
